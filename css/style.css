@@ -129,6 +129,7 @@ body {
 
 .item-info {
     margin-top: 10px;
+    text-align: left;
 }
 
 .item-title {
@@ -142,6 +143,7 @@ body {
 
 .item-text {
     font-size: 12px;
+    margin-bottom: 5px;
 }
 
 .item-text>span {
