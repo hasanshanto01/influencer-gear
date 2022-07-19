@@ -76,8 +76,9 @@ body {
 
 .title-img>img {
     width: 100%;
-    border: 2px solid rgb(240, 238, 238);
-    border-radius: 50%;
+    background-image: url(../images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
     padding: 10px;
 }
 
